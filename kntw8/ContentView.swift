@@ -9,7 +9,6 @@ import SwiftUI
 
 // Aka view "main"
 struct ContentView: View {
-    
     // push: bool toggled in views
     @State private var isLoading = false
 
